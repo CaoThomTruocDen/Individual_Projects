@@ -46,7 +46,7 @@ quả trên file
 
 ### STP304x_ASM1nLab_ProblemSolvingAndOopWithJava
 (Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
-- Giải một số bài toán problem solving, cấu trúc dữ liệu và bài toán hướng đối tượng
+- Giải một số bài toán problem solving, cấu trúc dữ liệu với lập trình hướng thủ tục và hướng đối tượng
 
 
 ### STP304x_ASM2_WebAutomationTesting
