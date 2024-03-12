@@ -45,15 +45,15 @@ quả trên file.
 
 
 ### STP304x_ASM1_ProblemSolvingAndOopWithJava
-* (Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
+(Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
 - Giải một số bài toán problem solving, cấu trúc dữ liệu và bài toán hướng đối tượng
 
 
 ### STP304x_ASM2_WebAutomationTesting
-* (Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
+(Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
 - Xây dựng cấu trúc cơ bản với POM pattern, Data-Driven Test
 - Viết code và thực thi testcase với Selenium, TestNG và trích xuất báo cáo với ReportNG
 
 ### STP304x_ASM3_APIAutomationTesting
-* (Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
+(Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
 - Viết code và thực thi testcase với RestAssured, TestNG
