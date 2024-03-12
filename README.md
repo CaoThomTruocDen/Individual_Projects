@@ -44,7 +44,7 @@ quả trên file
   + Với các testcase failed, thực hiện log bug trên file excel
 
 
-### STP304x_ASM1_ProblemSolvingAndOopWithJava
+### STP304x_ASM1nLab_ProblemSolvingAndOopWithJava
 (Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
 - Giải một số bài toán problem solving, cấu trúc dữ liệu và bài toán hướng đối tượng
 
