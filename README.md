@@ -57,3 +57,7 @@ quả trên file
 ### STP304x_ASM3_APIAutomationTesting
 (Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
 - Viết code và thực thi testcase với RestAssured, TestNG cho 2 API Login và Create Work của 1 trang web tìm việc làm
+
+### PersonalProject_WeiboAndAimanCrawler
+(Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
+- Chương trình đơn giản khai thác và lưu trữ dữ liệu tự động từ trang web Weibo.com và Chinaindex.net
