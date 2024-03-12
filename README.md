@@ -1,4 +1,3 @@
-# Individual_Projects
 # Assignments and Indivisual Projects
 # SRS xin phép được không cung cấp
 
@@ -8,9 +7,11 @@ STP302x_ASM1_WebManualTesting
   + Màn hình hiển thị chức năng Import File
   + Chức năng View File sau khi Import
 
+
 STP302x_ASM3_DatabaseDesignDevelopmentQuery
 - Thiết kế và xây dựng một CSDL đơn giản (quản lý nhân sự)
 - Thực hành truy vấn dữ liệu theo các điều kiện cho trước.
+
 
 STP303x_ASM1_DesktopAppManualTesting
 - Nghiên cứu tài liệu đặc tả, thiết kế chi tiết hệ thống phần mềm SD
@@ -18,6 +19,7 @@ STP303x_ASM1_DesktopAppManualTesting
   + List Organisations
   + Add Organisation
 - Ghi nhận lỗi vào file Defects Log
+
 
 STP303x_ASM2_MobileAppManualTesting
 - Đọc, hiểu, phân tích chức năng và nghiệp vụ hệ thống, phần mềm thông qua
@@ -30,6 +32,7 @@ android.
 quả trên file.
 - Với các testcase failed, thực hiện log bug trên file excel.
 
+
 STP303x_ASM3_WebAndAPIManualTesting
 - Viết testcase và thực hiện kiểm thử chức năng website
 - Viết testcase và scriptest để kiểm thử API của hệ thống (danh sách API cần test sẽ được cung cấp sẵn)
@@ -40,9 +43,11 @@ STP303x_ASM3_WebAndAPIManualTesting
     Đối với kiểm thử API, cần cung cấp thêm script test để đánh giá kết quả.
   + Với các testcase failed, thực hiện log bug trên file excel.
 
+
 STP304x_ASM1_ProblemSolvingAndOopWithJava
 (Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
 - Giải một số bài toán problem solving, cấu trúc dữ liệu và bài toán hướng đối tượng
+
 
 STP304x_ASM2_WebAutomationTesting
 (Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
