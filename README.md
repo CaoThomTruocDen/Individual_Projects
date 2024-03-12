@@ -10,7 +10,7 @@
 
 ### STP302x_ASM3_DatabaseDesignDevelopmentQuery
 - Thiết kế và xây dựng một CSDL đơn giản (quản lý nhân sự)
-- Thực hành truy vấn dữ liệu theo các điều kiện cho trước.
+- Thực hành truy vấn dữ liệu theo các điều kiện cho trước
 
 
 ### STP303x_ASM1_DesktopAppManualTesting
@@ -23,25 +23,25 @@
 
 ### STP303x_ASM2_MobileAppManualTesting
 - Đọc, hiểu, phân tích chức năng và nghiệp vụ hệ thống, phần mềm thông qua
-tài liệu đặc tả kỹ thuật SRS được cung cấp.
+tài liệu đặc tả kỹ thuật SRS được cung cấp
 - Thực hành viết bộ testcase cho ứng dụng dựa trên các chức năng, nghiệp vụ
-được định nghĩa trong SRS. 
+được định nghĩa trong SRS
 - Thực hiện cài đặt ứng dụng (APK) lên thiết bị android, hoặc phần mềm giả lập
-android.
+android
 - Thực hành kiểm thử dựa trên các testcase đã viết và thực hiện báo cáo kết
-quả trên file.
-- Với các testcase failed, thực hiện log bug trên file excel.
+quả trên file
+- Với các testcase failed, thực hiện log bug trên file excel
 
 
 ### STP303x_ASM3_WebAndAPIManualTesting
 - Viết testcase và thực hiện kiểm thử chức năng website
 - Viết testcase và scriptest để kiểm thử API của hệ thống (danh sách API cần test sẽ được cung cấp sẵn)
 - Với mỗi nội dung trên, chúng ta sẽ cần đáp ứng các yêu cầu sau:
-  + Đọc, hiểu, phân tích chức năng, nghiệp vụ hệ thống thông qua tài liệu đặc tả kỹ thuật SRS được cung cấp. 
-  + Thực hành viết testcase dựa trên các chức năng, nghiệp vụ được định nghĩa trong SRS.
-  + Thực hành kiểm thử dựa trên các testcase đã viết và thực hiện báo cáo kết quả trên file.
-    Đối với kiểm thử API, cần cung cấp thêm script test để đánh giá kết quả.
-  + Với các testcase failed, thực hiện log bug trên file excel.
+  + Đọc, hiểu, phân tích chức năng, nghiệp vụ hệ thống thông qua tài liệu đặc tả kỹ thuật SRS được cung cấp
+  + Thực hành viết testcase dựa trên các chức năng, nghiệp vụ được định nghĩa trong SRS
+  + Thực hành kiểm thử dựa trên các testcase đã viết và thực hiện báo cáo kết quả trên file
+    Đối với kiểm thử API, cần cung cấp thêm script test để đánh giá kết quả
+  + Với các testcase failed, thực hiện log bug trên file excel
 
 
 ### STP304x_ASM1_ProblemSolvingAndOopWithJava
@@ -51,9 +51,9 @@ quả trên file.
 
 ### STP304x_ASM2_WebAutomationTesting
 (Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
+- Viết code và thực thi testcase với Selenium, TestNG và trích xuất báo cáo với ReportNG cho kịch bản Search rồi Add To Card của 1 trang web thương mại điện tử
 - Xây dựng cấu trúc cơ bản với POM pattern, Data-Driven Test
-- Viết code và thực thi testcase với Selenium, TestNG và trích xuất báo cáo với ReportNG
 
 ### STP304x_ASM3_APIAutomationTesting
 (Sử dụng IDE Eclipse - Giải nén và Import File vào IDE)
-- Viết code và thực thi testcase với RestAssured, TestNG
+- Viết code và thực thi testcase với RestAssured, TestNG cho 2 API Login và Create Work của 1 trang web tìm việc làm
