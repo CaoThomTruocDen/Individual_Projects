@@ -9,8 +9,8 @@ SRS xin phép được không cung cấp
 
 
 ### STP302x_ASM3_DatabaseDesignDevelopmentQuery
-- Thiết kế và xây dựng một CSDL đơn giản (quản lý nhân sự)
-- Thực hành truy vấn dữ liệu theo các điều kiện cho trước
+- Thiết kế và xây dựng một CSDL đơn giản (quản lý nhân sự) với file data nhân sự đã cho trước
+- Thực hành truy vấn dữ liệu
 
 
 ### STP303x_ASM1_DesktopAppManualTesting
