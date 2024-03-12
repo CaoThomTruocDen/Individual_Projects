@@ -1,5 +1,5 @@
 # Assignments and Indivisual Projects
-# SRS xin phép được không cung cấp
+SRS xin phép được không cung cấp
 
 ### STP302x_ASM1_WebManualTesting
 - Thiết kế tình huống kiểm thử cho tính năng Import File cho một trang web lưu trữ kết quả học tập:
